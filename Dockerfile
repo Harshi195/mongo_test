@@ -1,1 +1,1 @@
-FROM mongodb:latest
+FROM mongo:latest
