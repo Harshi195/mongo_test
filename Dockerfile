@@ -1,2 +1,4 @@
-FROM mongo:1
+FROM mongo:6.0.1-focal
+
+    
 
